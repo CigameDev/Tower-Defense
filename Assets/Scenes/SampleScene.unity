@@ -276,9 +276,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points:
-  - {x: -7, y: 0, z: 0}
-  - {x: 0, y: -3, z: 0}
-  - {x: 1.5, y: 3.5, z: 0}
+  - {x: -6.74, y: 0, z: 0}
+  - {x: -1.0021787, y: -3.0303686, z: 0}
+  - {x: -2.3264995, y: 2.4067152, z: 0}
+  - {x: 4.263583, y: 0.09866816, z: 0}
 --- !u!4 &1405288794
 Transform:
   m_ObjectHideFlags: 0
@@ -288,7 +289,7 @@ Transform:
   m_GameObject: {fileID: 1405288792}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.39, y: -0.25, z: 0}
+  m_LocalPosition: {x: 1.06, y: 0.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
