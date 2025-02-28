@@ -263,7 +263,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnMode: 1
   enemyCount: 10
-  testGO: {fileID: 6752346642980571731, guid: 65be601e558e06a4ca0aa9aeaf4e6d4f, type: 3}
   delayBtwSpawns: 0.5
   minRandomDelay: 1
   maxRandomDelay: 3
@@ -279,7 +278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cafe07d21acb87b468ab518bc3745735, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 6752346642980571731, guid: 65be601e558e06a4ca0aa9aeaf4e6d4f, type: 3}
+  prefab: {fileID: 8092601559554105604, guid: 73bc153e6cf19ee4dbe5e3feb3824c41, type: 3}
   poolSize: 20
 --- !u!114 &1005708034
 MonoBehaviour:
