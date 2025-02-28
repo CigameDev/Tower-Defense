@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
@@ -7,6 +7,8 @@ using UnityEditor;
 public class WaypointEditor : Editor
 {
     Waypoint Waypoint => target as Waypoint;
+
+    //Hàm này chạy trong Scene View, cho phép chúng ta vẽ và tương tác với các đối tượng trực tiếp.
     private void OnSceneGUI()
     {
         Handles.color = Color.red;
